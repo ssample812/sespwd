@@ -1,4 +1,3 @@
-# sespwd
-Software Engineering Fall 2019
+# Software Engineering Fall 2019
 
-Course materials
+sespwd
